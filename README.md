@@ -1,5 +1,7 @@
 # 💫 About Me:
-🧪 I’m currently working on: A data analysis web app that turns raw data into actionable insights.<br>🤝 I’m looking to collaborate on: Data analytics, data engineering, AI/ML, and full-stack web projects.<br>🤲 I’m looking for help with: Scaling, optimizing, and improving visualizations in my analytics web app.<br>🌱 I’m currently learning: Advanced SQL, Python, machine learning basics, and modern full-stack development.<br>💬 Ask me about: Data analysis, SQL, dashboards, Python automation, and ETL workflows.<br>⚡ Fun fact: I love cleaning messy datasets (even late-night debugging 😄).<br><br>
+🧑‍💻 I’m a Computer Science grad (2025) interested in both data and software development.<br><br>🌐 I build full-stack applications and backend services using Python, SQL, FastAPI, Next.js, and also work with Go and Bash for scripting and systems work.<br><br>📊 I work a lot with data — from cleaning and analyzing it to building dashboards that help make sense of it.<br><br>📈 I’ve created dashboards using Power BI and Tableau, focusing on clear and useful insights rather than just visuals.<br><br>🤖 I’ve explored machine learning basics to add simple predictive features to projects.<br><br>⚙️ I’m comfortable with debugging, Git, and working across the full development lifecycle.<br><br>🌱 Currently improving my skills in backend development, system design, and data engineering concepts.<br><br>💬 Ask me about: data analysis, backend development, APIs, SQL, or dashboards.<br><br>⚡ Fun fact: I don’t mind messy datasets or debugging sessions — kind of enjoy both.
+
+
 
 
 ## 🌐 Socials:
